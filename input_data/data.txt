@@ -1,0 +1,15 @@
+Informations: les données étant très volumineuse pour moodle ne sont pas présentes dans le répertoire mais sont téléchargeables sur les liens suivants :
+
+
+Données clients : (https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python)
+
+Composé des colonnes suivantes: (CustomID, Gender, Age, Annual Income (k$),Spending Score (1-100))
+
+
+Données des avis sur les films : (https://www.kaggle.com/rounakbanik/the-movies-dataset?select=ratings.csv
+
+Composé des colonnes suivantes: (userId, movieId, rating, timestamp)
+
+Données de description des films: (https://www.kaggle.com/rounakbanik/the-movies-dataset?select=movies_metadata.csv)
+
+Composé des colonnes suivantes : (adult,belongs_to_collection,budget,genres,homepage,id,imdb_id,original_language,original_title,overview,popularity,poster_path,production_companies,production_countries,release_date,revenue,runtime,spoken_languages,status,tagline,title,video,vote_average,vote_count)
